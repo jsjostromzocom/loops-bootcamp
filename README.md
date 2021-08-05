@@ -27,20 +27,32 @@ let things = ['hammer', 'nails', 'ruler', 'screwdriver', 'screws', 'saw'];
 
 ## For Each loops
 
+```js 
+let things = ['hammer', 'nails', 'ruler', 'screwdriver', 'screws', 'saw'];
+```
+
+7. Loopa ut ovanstående array och ```console.log()``` varje pryl.
+
+8. Loopa ut ovanstående array och ```console.log()``` varje pryl samt vilken position i arrayen den har.
+
+
 
 
 ## While loops
 
+9. Skapa en while-loop som kör 1000 varv. ```console.log()``` ut varje varv.
+
+
 ## Loop da loops
 
-Generera en *kortlek* med 52 kort där varje kort innehåller en färg ( suite ) och ett värde mellan 2 och 14 ( ess ). Ex.
+10. Generera en *kortlek* med 52 kort där varje kort innehåller en färg ( suite ) och ett värde mellan 2 och 14 ( ess ). Ex.
 
 ```javascript
 [..., 'hjärter 8', 'hjärter 9', ...]
 ```
 
 
-Loopa ut samtliga vänners favoritfrukter med en ```console.log()```.
+11. Loopa ut samtliga vänners favoritfrukter med en ```console.log()```.
 
 ```js
 let friends = [
