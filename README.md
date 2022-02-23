@@ -83,3 +83,15 @@ let friends = [
 ]
 
 ```
+
+## Your choice
+
+12. Brute force
+
+Skriv ett program som tar ett random lösenord från [denna lista](https://gist.github.com/zocom-johan-kivi/8b4b5057e375d5dc2a329de062f779c5) och sparar i variabeln ```topsecret```. 
+
+Skriv sedan ett program som med *brute force* testar samtliga lösenord l listan mot din hemliga slumpade lösenord. ```console.log()``` lösenordet som matchar.
+
+```js 
+console.log(`Aha! I found you, ${matched_password}.`)
+```
