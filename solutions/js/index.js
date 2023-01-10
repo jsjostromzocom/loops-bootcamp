@@ -1,14 +1,14 @@
 /** -- 1 -- */
 
 for (let i = 0; i <= 1000; i++) {
-    //console.log(`Varv: ${i}`);
+    console.log(`Varv: ${i}`);
 }
 
 /** -- 2 -- */
 
-// for (let i = 100; i => 0; i--) {
-//     console.log(`Varv: ${i}`);
-// }
+for (let i = 100; i >= 0; i--) {
+    console.log(`Varv: ${i}`);
+}
 
 /** -- 3 -- */
 
